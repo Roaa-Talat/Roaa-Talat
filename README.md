@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roaa0&label=Profile%20views&color=0e75b6&style=flat" alt="roaa0" /> </p>
+
 
 - 📫 How to reach me **roaatalat211@gmail.com**
 
