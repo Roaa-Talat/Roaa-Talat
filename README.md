@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
-<h3 align="center">A Passionate Computer Science Student</h3>
+<h3 align="center">A Computer Science Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/roaa-talat" target="_blank">
