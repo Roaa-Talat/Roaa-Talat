@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+- 🎓 Senior student at the Faculty of Computers and Artificial Intelligence, Information Systems Department, Cairo University.  
+- 💡 Passionate about **Data Engineering and Machine Learning**.  
+- 🚀 Always eager to learn new technologies and explore **Big Data and Cloud Computing**.  
+- 📚 Currently improving my skills in **Distributed Systems and Scalable Data Pipelines**.  
+- 🌍 Interested in contributing to **open-source projects** and collaborating with like-minded developers.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roaa-talat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roaatalat211@gmail.com) 
