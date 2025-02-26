@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 
 
-<h3 style="color: purple; font-style: italic;">Welcome to</h3>
+<svg width="100%" height="100">
+  <text x="50%" y="50%" font-size="24" fill="purple" font-family="Arial" text-anchor="middle">
+    Welcome to
+  </text>
+</svg>
 
 
 # 💫 About Me:
