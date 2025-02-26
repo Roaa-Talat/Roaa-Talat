@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 
-
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Welcome+to+My+Tech+World!)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Welcome+to+My+Tech+World!">
+</p>
 
 # 💫 About Me:
 - 🎓 Senior student at the Faculty of Computers and Artificial Intelligence, Information Systems Department, Cairo University.  
