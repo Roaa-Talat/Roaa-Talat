@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 
 
-<h3 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; color: transparent; font-style: italic;">
-  Welcome to
-</h3>
+<h3 style="color: purple; font-style: italic;">Welcome to</h3>
+
 
 # 💫 About Me:
 - 🎓 Senior student at the Faculty of Computers and Artificial Intelligence, Information Systems Department, Cairo University.  
