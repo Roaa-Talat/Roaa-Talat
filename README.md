@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roaa Talat</h1>
 
 
-<svg width="100%" height="100">
-  <text x="50%" y="50%" font-size="24" fill="purple" font-family="Arial" text-anchor="middle">
-    Welcome to
-  </text>
-</svg>
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=800080&width=435&lines=Welcome+to)
 
 
 # 💫 About Me:
